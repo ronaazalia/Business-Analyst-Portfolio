@@ -31,7 +31,7 @@ This analysis is based on transactional and master data commonly used
 in a manufacturing sales environment.
 
 📄 **Table structure and relationships:**  
-[View tables overview](link-to-google-sheet-or-md)
+[View tables overview](sql-analysis/sales-perfomance/0_db_sales_performance.pdf)
 
 ---
 
@@ -39,13 +39,13 @@ in a manufacturing sales environment.
 The following SQL queries are used to answer the business questions:
 
 1. **Sales achievement by sales representative**  
-   [View SQL query]([queries/sales-achievement-by-rep.sql](https://drive.google.com/file/d/1YMYepxedaGaZLECXaO_JdA8sjyP9dosZ/view?usp=sharing))
+   [View SQL query](sql-analysis/sales-perfomance/1.0_sales_achv_by_salesrep.sql)
 
 2. **Top-performing sales representatives by month**  
-   [View SQL query](queries/top-performer-by-month.sql)
+   [View SQL query](queries/top-performer-by-month.sql) placeholder
 
 3. **Sales achievement by territory**  
-   [View SQL query](queries/sales-achievement-by-territory.sql)
+   [View SQL query](sql-analysis/sales-perfomance/2.0_sales_achv_by_territory.sql)
 
 ---
 
@@ -54,7 +54,7 @@ The summarized outputs generated from the analysis can be viewed here.
 All results are anonymized and provided for illustration purposes only.
 
 📊 **Sample results:**  
-[View summarized results](link-to-google-sheet-or-md)
+[View summarized table](sql-analysis/sales-perfomance/3.0_achv_result.pdf)
 
 ---
 

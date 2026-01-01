@@ -59,7 +59,7 @@ All results are anonymized and provided for illustration purposes only.
 ---
 
 ## Notes
-- The queries are created by translating user needs and business questions
-  into actionable data analysis.
-- This case reflects real operational scenarios, with sensitive details
-  removed for portfolio purposes.
+This analysis uses dummy data for portfolio demonstration purposes.
+The structure and logic reflect real-world business scenarios, but all values and identifiers are fictional.
+
+

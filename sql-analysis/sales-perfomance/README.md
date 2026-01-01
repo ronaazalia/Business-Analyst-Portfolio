@@ -41,11 +41,11 @@ The following SQL queries are used to answer the business questions:
 1. **Sales achievement by sales representative**  
    [View SQL query](sql-analysis/sales-perfomance/1.0_sales_achv_by_salesrep.sql)
 
-2. **Top-performing sales representatives by month**  
-   [View SQL query](queries/top-performer-by-month.sql) placeholder
-
-3. **Sales achievement by territory**  
+2. **Sales achievement by territory**  
    [View SQL query](sql-analysis/sales-perfomance/2.0_sales_achv_by_territory.sql)
+
+3.  **Top-performing sales representatives by month**  
+   [View SQL query](queries/top-performer-by-month.sql) placeholder
 
 ---
 

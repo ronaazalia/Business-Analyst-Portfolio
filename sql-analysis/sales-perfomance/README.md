@@ -1,29 +1,65 @@
 # Sales Performance Analysis
 
-This case demonstrates SQL-based analysis to evaluate sales performance against defined targets.
+This case demonstrates SQL-based analysis developed to support
+business and operational decision-making related to sales performance.
 
-The analysis is designed to support both operational and managerial perspectives.
+The analysis focuses on evaluating actual sales against defined targets
+at both sales representative and territory levels.
 
 ---
 
 ## Business Questions
-1. How does each sales representative perform against their target?
-2. Who are the top-performing sales representatives in January and February?
-3. How does sales performance aggregate at the territory level?
-4. Which territory generates the highest sales during the selected period?
+- How does each sales representative perform against their target?
+- Who are the top-performing sales representatives in January and February?
+- How does sales performance aggregate at the territory level?
+- Which territory generates the highest sales during the selected period?
 
 ---
 
 ## Analysis Scope
-- Monthly sales performance based on actual vs target values
-- Sales representative–level and territory-level analysis
-- Identification of top performers and best-performing territories
+- Actual sales amount calculated from order quantity and unit price
+- Sales performance evaluated by fiscal period (monthly)
+- Target values maintained at the sales representative level
+- Territory performance derived by aggregating sales representative targets
+- Analysis focused on identifying top-performing sales representatives
+  and highest-performing territories for selected periods
 
 ---
 
-## Outputs
-1. Sales achievement metrics by sales representative and fiscal period
-2. Identification of top-performing sales representatives for selected periods
-3. Aggregated sales achievement metrics by territory
-4. Identification of highest-performing territories
+## Data Sources
+This analysis is based on transactional and master data commonly used
+in a manufacturing sales environment.
 
+📄 **Table structure and relationships:**  
+[View tables overview](link-to-google-sheet-or-md)
+
+---
+
+## Analysis Logic (SQL)
+The following SQL queries are used to answer the business questions:
+
+1. **Sales achievement by sales representative**  
+   [View SQL query]([queries/sales-achievement-by-rep.sql](https://drive.google.com/file/d/1YMYepxedaGaZLECXaO_JdA8sjyP9dosZ/view?usp=sharing))
+
+2. **Top-performing sales representatives by month**  
+   [View SQL query](queries/top-performer-by-month.sql)
+
+3. **Sales achievement by territory**  
+   [View SQL query](queries/sales-achievement-by-territory.sql)
+
+---
+
+## Results Summary
+The summarized outputs generated from the analysis can be viewed here.
+All results are anonymized and provided for illustration purposes only.
+
+📊 **Sample results:**  
+[View summarized results](link-to-google-sheet-or-md)
+
+---
+
+## Notes
+- The queries are created by translating user needs and business questions
+  into actionable data analysis.
+- This case reflects real operational scenarios, with sensitive details
+  removed for portfolio purposes.

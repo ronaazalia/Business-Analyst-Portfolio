@@ -54,7 +54,7 @@ The summarized outputs generated from the analysis can be viewed here.
 All results are anonymized and provided for illustration purposes only.
 
 📊 **Sample results:**  
-[View summarized table](sql-analysis/sales-perfomance/3.0_achv_result.pdf)
+[View summarized table](sql-analysis/sales-perfomance/3.0_result_table.pdf)
 
 ---
 

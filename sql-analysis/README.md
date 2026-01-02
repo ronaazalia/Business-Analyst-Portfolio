@@ -21,6 +21,7 @@ My SQL work typically follows this flow:
 
 ## Example Use Cases
 
+- Data analysis for project's business case
 - Operational data checking
 - Ad hoc data extraction based on user requests
 - Sales target vs achievement analysis (by sales representative, by territory, etc)

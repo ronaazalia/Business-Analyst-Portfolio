@@ -10,9 +10,8 @@ at both sales representative and territory levels.
 
 ## Business Questions
 - How does each sales representative perform against their target?
-- Who are the top-performing sales representatives in January and February?
 - How does sales performance aggregate at the territory level?
-- Which territory generates the highest sales during the selected period?
+- Which territory generates the highest sales in all period?
 
 ---
 
